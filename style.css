@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Allan&family=Poppins&family=Red+Hat+Text&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body { 
+  min-height: 100vh; 
+  background-color:#191A23 ;
+}
+
+
+body {
+  background-image: url("/img/bg-stars.svg");
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 142px;
+}
+
+footer {
+  background-image: url("/img/pattern-hills.svg");
+  position: fixed;
+  bottom: 0;
+  width: 390px;
+  text-align: center;
+}
+
+.box1 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+  padding-bottom: 0.5px;
+}
+
+.box2 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+}
+
+.box3 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+  padding-bottom: 0.5px;
+}
+
+.box4 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+}
+
+.box5 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+  padding-bottom: 0.5px;
+}
+
+.box6 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+}
+
+.box7 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+  padding-bottom: 0.5px;
+}
+
+.box8 {
+  width: 70px;
+  height: 33.27px;
+  background-color: #343650;
+}
+
